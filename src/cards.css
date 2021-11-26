@@ -58,6 +58,7 @@ html {
     border-radius: 4px;
     overflow: hidden;
     justify-content: center;
+    width: 710px;
 }
 
 .cardGroup__card {
@@ -94,6 +95,6 @@ html {
         width: 100%;
         flex-direction: column;
         background-color: rgb(33, 33, 33);
-
+        /*Coloquei a cor pra divertir quando ficar menor que 320px*/
     }
 }
